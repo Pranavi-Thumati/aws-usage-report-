@@ -70,3 +70,9 @@ DAILY COST:
 •	DevOps oriented reporting workflow  
 
 
+📊 **Workflow Diagram**  
+
+<img width="911" height="606" alt="image" src="https://github.com/user-attachments/assets/5525f488-2979-45fa-a3d6-b09b8b065f37" />
+
+
+
